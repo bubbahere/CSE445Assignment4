@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Name>Grand Canyon National Park</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="Flagstaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Phone>406-848-2400</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Grand Loop Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Address NearestAirport="StGeorge">
+      <Number>1</Number>
+      <Street>Kolob Canyons Rd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    <!-- Missing closing tag for Address on purpose -->
+  </NationalPark>
+</NationalPark>
